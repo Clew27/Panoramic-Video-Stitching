@@ -1,3 +1,10 @@
+# Panoramic Video Stitcher
+Pano\ Footage/
+*.mp4
+
+# IntelliJ IDEA
+.idea/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
